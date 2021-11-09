@@ -17,13 +17,11 @@
 
 ---
 
-### Category Name 2
+### Scientific Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Quantum particles in a moving potential](https://iopscience.iop.org/article/10.1088/1402-4896/ab80e6/meta)
+- [Comment to: "The quantum square well with moving boundaries: a numerical analysis"](https://arxiv.org/abs/1810.11350)
+
 
 ---
 
