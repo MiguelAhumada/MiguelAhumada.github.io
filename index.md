@@ -30,11 +30,6 @@
 ### Microsoft Power BI projects
 
 
-
-
-
-
-
-
 ---
 
+### Wolfram Mathematica projects
