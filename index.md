@@ -16,14 +16,6 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-[Project 2 Title](/sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Excel projects
-
-
 
 ---
 
