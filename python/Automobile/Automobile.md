@@ -13,10 +13,9 @@ ALTHOUGH I FOLLOWED THE NIMIT'S PROCEDURE, MOST OF THE CODE WAS DONE BY ME.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
+```python
+auto = pd.read_csv('automobile_data.csv')
+auto.head()
 ```
 
 ### 2. Assess assumptions on which statistical inference will be based
