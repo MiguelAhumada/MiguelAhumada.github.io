@@ -12,7 +12,7 @@
 
 ### Python projects
 
-[Exploratory Data Analysis (EDA) - Automobile data set](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/Automobile%20project.ipynb)
+[Exploratory Data Analysis (EDA) - Automobile data set](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/Automobile%20project.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
