@@ -12,7 +12,7 @@
 
 ### Python projects
 
-[Exploratory Data Analysis (EDA) - 1985 Ward's Automotive Yearbook](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/Automobile.md)
+- [Exploratory Data Analysis (EDA) - 1985 Ward's Automotive Yearbook](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/Automobile.md)
 
 
 
@@ -20,14 +20,14 @@
 
 ### Microsoft Power BI projects
 
-[Video games report](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/ProyectoVideojuegos.pdf)
+- [Video games report](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/ProyectoVideojuegos.pdf)
 
-[Sales report for January - April 2021](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/Reporte%20de%20ventas.pdf)
+- [Sales report for January - April 2021](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/Reporte%20de%20ventas.pdf)
 
-[Quarterly sales report](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/Ventas.pdf)
+- [Quarterly sales report](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/Ventas.pdf)
 
 ---
 
 ### Wolfram Mathematica projects
 
-[Thomson problem](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/Mathematica/ThomsonProblem/Thomson_problem.pdf)
+- [Thomson problem](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/Mathematica/ThomsonProblem/Thomson_problem.pdf)
