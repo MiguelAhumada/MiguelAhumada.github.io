@@ -13,7 +13,7 @@
 ### Python projects
 
 [Exploratory Data Analysis (EDA) - 1985 Ward's Automotive Yearbook](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/Automobile.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="python/Automobile/correlation_matrix.png?raw=true"/>
 
 
 
