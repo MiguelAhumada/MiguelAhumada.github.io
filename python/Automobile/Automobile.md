@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## Exploratory Data Analysis (EDA) - 1985 Ward's Automotive Yearbook
 
 **Project description:** 
 In the following project I will perform a guided exploratory data analysis (EDA). The purpose of this project is to practice the knowledge adquired in my python courses about data analysis.
