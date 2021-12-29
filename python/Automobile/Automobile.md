@@ -9,4 +9,4 @@ In order to perform the data, Nimit used the Automobile dataset taken from kaggl
 
 ALTHOUGH I FOLLOWED THE NIMIT'S PROCEDURE, MOST OF THE CODE WAS DONE BY ME.
 
-<img src="python/Automobile/correlation_matrix.png?raw=true"/>
+<img src="python/Automobile/correlation_matrix.png"/>
