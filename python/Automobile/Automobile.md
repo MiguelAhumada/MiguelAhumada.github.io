@@ -11,7 +11,7 @@ ALTHOUGH I FOLLOWED THE NIMIT'S PROCEDURE, MOST OF THE CODE WAS DONE BY ME.
 
 In the following figure it is illustrated the Pearson correlation coefficient for all combination of variables:
 
-[TO SEE THE COMPLETE PROJECT, CLICK ON THE NEXT LINK:](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/Automobile project.ipynb)
+[TO SEE THE COMPLETE PROJECT, CLICK ON THE NEXT LINK:](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/Automobileproject.ipynb)
 
 
 <img src="https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/correlation_matrix.png"/>
