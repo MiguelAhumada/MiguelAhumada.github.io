@@ -9,4 +9,9 @@ In order to perform the data, Nimit used the Automobile dataset taken from kaggl
 
 ALTHOUGH I FOLLOWED THE NIMIT'S PROCEDURE, MOST OF THE CODE WAS DONE BY ME.
 
+In the following figure it is illustrated the Pearson correlation coefficient for all combination of variables:
+
+TO SEE THE COMPLETE PROJECT, CLICK ON THE NEXT LINK: (https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/Automobile project.ipynb)
+
+
 <img src="https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/correlation_matrix.png"/>
