@@ -1,6 +1,8 @@
 ## Exploratory Data Analysis (EDA) - 1985 Ward's Automotive Yearbook
 
 **Project description:** 
+
+
 In the following project I will perform a guided exploratory data analysis (EDA). The purpose of this project is to practice the knowledge adquired in my python courses about data analysis.
 
 The original EDA was made it by Nimit Vanawat on August 12, 2021 (https://www.analyticsvidhya.com/blog/2021/08/how-to-perform-exploratory-data-analysis-a-guide-for-beginners/). In Nimit's project a brief introduction about the exploratory data analysis is given (definition and importance of the EDA to take insights from the data), as well as the application of EDA to a real problem
