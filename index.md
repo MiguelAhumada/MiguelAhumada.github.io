@@ -29,6 +29,11 @@
 
 ---
 
+### Microsoft Excel Projects
+
+
+---
+
 ### Wolfram Mathematica projects
 
 - [Thomson problem on a sphere](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/Mathematica/ThomsonProblem/Thomson.md)
