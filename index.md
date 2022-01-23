@@ -20,7 +20,7 @@
 
 ### Microsoft Power BI projects
 
-- [Video games report](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/ProyectoVideojuegos.pdf)
+- [Sales history: Video game industry](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/ProyectoVideojuegos.pdf)
 
 - [Sales report for January - April 2021](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/Reporte%20de%20ventas.pdf)
 
