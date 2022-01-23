@@ -20,11 +20,12 @@
 
 ### Microsoft Power BI projects
 
-- [Sales history: Video game industry](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/ProyectoVideojuegos.pdf)
+- [Quarterly sales report](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/QuarterlySalesReport/QuarterlySales.md)
 
-- [Sales report for January - April 2021](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/Reporte%20de%20ventas.pdf)
+- [Sales history: Video game industry](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/VideoGamesProject/VideoGamesProject.md)
 
-- [Quarterly sales report](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/Ventas.pdf)
+- [Sales report for January - April 2021](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/SalesReport/SalesReport.md)
+
 
 ---
 
