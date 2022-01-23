@@ -5,5 +5,5 @@ The study of this project is about the mathematical computation to minimize the 
 
 Keywords: Thomson, Sphere, Coulomb energy, Polyhedrons /sep Minimal energy
 
-<img src="https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/Mathematica/ThomsonProblem/ThomsonProblem.png"/>
+<img align="center" img src="https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/Mathematica/ThomsonProblem/ThomsonProblem.png"/>
 
