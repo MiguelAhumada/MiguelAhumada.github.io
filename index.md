@@ -30,4 +30,4 @@
 
 ### Wolfram Mathematica projects
 
-- [Thomson problem](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/Mathematica/ThomsonProblem/Thomson_problem.pdf)
+- [Thomson problem](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/Mathematica/ThomsonProblem/ThomsonProblem.md)
