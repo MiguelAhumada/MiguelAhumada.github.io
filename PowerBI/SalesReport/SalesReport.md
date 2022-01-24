@@ -2,6 +2,8 @@
 
 **Project description:** 
 
+Este proyecto consiste en un conjunto de tres reportes
+
 <img align="center" img src="https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/SalesReport/SalesReport1.jpg"/>
 
 asasdasdasdas
