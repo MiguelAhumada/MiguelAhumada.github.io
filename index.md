@@ -31,6 +31,7 @@
 
 ### Microsoft Excel Projects
 
+- [Human Resources Managment Dashboard](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/Excel/HR/HR.md)
 
 ---
 
