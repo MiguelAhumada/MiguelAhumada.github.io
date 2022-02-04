@@ -2,19 +2,16 @@
 
 **Project description:** 
 
-This work was elaborated as motivation after having finished the course "Microsoft Power BI - A Complete Introduction" by Udemy [LINK OF THE COURSE](https://www.udemy.com/course/powerbi-complete-introduction/).
+The following report shows valuable information about Human Resources (HR) for a given company. In the left panel, the report has a series of filters to be able to make detailed searches. From the visualizations we can obtain information such as:
 
-For the project, a fictitious excel database was used, which consists of a quarterly record of total revenue of each of the vendors in a company, 
-classified by product type: accessories, devices and systems; and the region in which they were sold: east, west and central.
+- Total active employees for each month in the years 2015-2018.
+- Number of active employees by ethnic group.
+- Average Tenure in months.
+- Number of active employees by region.
+- Number of separations for each year.
+- Termination reasons for each year.
 
-For the elaboration of the report, I could practice some features of Microsoft Power Bi, such as:
-
-- Import databases from Power Query Editor.
-- Use different types of graphs depending on the type of information I wanted to show.
-- Create y edit tables.
-- Use slicers.
-- Link Charts Using Filters.
-- Customize and design a creative dashboard. 
+In the upper panel you can find summary statistics, such as the total employees up to that moment, number of employees by gender, percentage of employees for different pay types (hourly or salary), percentage of employees by type of contract: full time or part time, distribution of ages and the turnover.
 
 The dashboard is shown below:
 
