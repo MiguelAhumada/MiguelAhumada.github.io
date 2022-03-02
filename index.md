@@ -14,7 +14,7 @@
 
 - [Exploratory Data Analysis (EDA) - 1985 Ward's Automotive Yearbook](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/Automobile/Automobile.md)
 
-
+- [Defining functions - World Bank Data](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/WorldBank/Bank.md)
 
 ---
 
