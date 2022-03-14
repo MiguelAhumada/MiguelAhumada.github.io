@@ -16,6 +16,8 @@
 
 - [Defining functions - World Bank Data](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/WorldBank/Bank.md)
 
+- [Iris Flowers - Supervised Learning (K-Nearest Neighbors)](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/IrisFlower/IrisFlower.md)
+
 ---
 
 ### Microsoft Power BI projects
