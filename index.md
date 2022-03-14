@@ -18,6 +18,8 @@
 
 - [Iris Flowers - Supervised Learning (K-Nearest Neighbors)](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/IrisFlower/IrisFlower.md)
 
+- [Digits Recognition - Supervised Learning (K-Nearest Neighbors)](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/python/MNIST/MNIST.md)
+
 ---
 
 ### Microsoft Power BI projects
