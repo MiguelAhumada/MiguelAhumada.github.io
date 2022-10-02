@@ -17,7 +17,7 @@ For the elaboration of the report, I could practice some features of Microsoft P
 
 The dashboard is shown below:
 
-<img align="center" img src="https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/FinancialDashboard/financialDashboard.jpg"/>
+<img align="center" img src="https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/FinancialDashboard/financialDashboard.png"/>
 
 [TO DOWNLOAD THE PROJECT, CLICK HERE](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/FinancialDashboard/)
 
