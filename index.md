@@ -30,6 +30,8 @@
 
 - [Sales report for January - April 2021](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/SalesReport/SalesReport.md)
 
+- [Disteku's Financial Dashboard](https://github.com/MiguelAhumada/MiguelAhumada.github.io/blob/main/PowerBI/FinancialDashboard/FinancialDashboard.md)
+
 
 ---
 
